@@ -1,2 +1,2 @@
 # PortfolioWebsite
-My person website. Developed with Html and CSS
+My personal website. Developed with Html and CSS
